@@ -10,5 +10,5 @@ Email: hkim47@sfsu.edu<br>
 
 # Description
 
-When you Login it checks if there are username and password that user entered. If successfuly login then you will see BankAccount GUI and you can do deposit, withdraw, transfer and see past transaction. You can also register and it checks if username is longer than 3 letters and once everything checked then it stores into database and able to login.
+When you log in, it checks if the username and password entered by the user are correct. If the login is successful, you will see the BankAccount GUI, where you can deposit, withdraw, transfer, and view past transactions. You can also register, and it checks if the username is longer than 3 letters. Once everything is checked, it is stored in the database and you can log in.
 
