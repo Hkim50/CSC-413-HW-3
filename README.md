@@ -26,6 +26,9 @@ When you log in, it checks if the username and password entered by the user are 
 
 ![71337044-A344-4C06-AC86-26ABA7E730AF](https://github.com/Hkim50/CSC-413-HW-3/assets/143057676/86b34fcc-f4ed-4918-b35e-1a4831b741a1)<br><br>
 
+![EFCEBC73-4BB9-49BB-AB56-410007BD21E3](https://github.com/Hkim50/CSC-413-HW-3/assets/143057676/2d6b4431-e7a9-4e6f-be71-b6b04c6c6046)<br><br>
+
+
 
 
 
